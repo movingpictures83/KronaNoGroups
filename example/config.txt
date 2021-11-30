@@ -1,0 +1,2 @@
+Prefix plugins/KronaNoGroups/example/
+Plugin KronaNoGroups inputfile input.krona outputfile nogroups.krona
